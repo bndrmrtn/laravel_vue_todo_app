@@ -1,0 +1,15 @@
+{
+    "name": "vendor/todo_app_jetstream_vue",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\TodoAppJetstreamVue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Binder",
+            "email": "72764328+bndrmrtn@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
